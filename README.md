@@ -8,6 +8,7 @@ There were two purposes for this project. The first was to help “Steve” dete
 ### The Data
 The data that was used was for the years 2017 and 2018. There was a sample set of 12 different stocks which included their starting price and ending price and total volume for day of trade. From this data we created code to determine the total daily volume and rate for return for each year. 
 
+
 ## Results
 
 ### Analysis
@@ -77,13 +78,16 @@ After refactoring the elapsed time difference for 2017 was 0.640625 seconds. The
 2017 Original png/Refactored png
 2018 Original png/Refactored png
 
+
 ## Summary
+
 ### Summary of All Stocks
 Overall if this was going to be a real analysis there was not enough data to preform a proper analysis. However, for the project we found the total daily volumes for each ticker and what the yearly return was for each ticker. We used the results to make a recommendation for which stocks would be best for “Steve’s” parents to invest in.
 
 ### Summary of Refactoring Code
 The goal of refactoring is to make the code cleaner and make it more organized so it will run more 
 efficiently and take up less memory.
+
 
 ## Pros and Cons of Refactoring
 
