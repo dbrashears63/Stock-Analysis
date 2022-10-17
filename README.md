@@ -72,7 +72,7 @@ For the refactored code we were given specific guidelines to improve the efficie
         Next i
         
 #### Refactoring Elapsed Time
-After refactoring the elapsed time difference for 2017 was 0.640625 seconds. The elapsed time difference for 2018 was 0.0117187 seconds. In this scenario there was not much of a difference, however, in a larger program the time refactoring could make it run faster and more efficiently
+After refactoring the elapsed time difference for 2017 was 0.640625 seconds. The elapsed time difference for 2018 was 0.0117187 seconds. In this scenario there was not much of a difference, however, in a larger program the time refactoring could make it run faster and more efficiently. Below are images that show the actual run times of before and after refactoring.
 
 
 The first image is of the 2017 elapsed time before refactoring. The second images is of 2017 elapsed time after refactoring.
