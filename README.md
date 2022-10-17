@@ -76,8 +76,7 @@ After refactoring the elapsed time difference for 2017 was 0.640625 seconds. The
 
 
 
-<img src="https://github.com/dbrashears63/Stock-Analysis/blob/main/VBA%20Module%202%20Deliverables/Message%20Box%20Run%20Time%20For%202017.png" width=20% height=20%>/> <img src="https://github.com/dbrashears63/Stock-Analysis/blob/main/VBA%20Module%202%20Deliverables/Message%20Box%20Run%20Time%20For%202017%20Refactored.png" width=20% height=20%"/>
-
+<img src="https://github.com/dbrashears63/Stock-Analysis/blob/main/VBA%20Module%202%20Deliverables/Message%20Box%20Run%20Time%20For%202017.png" width=20% height=20% /> <img src="https://github.com/dbrashears63/Stock-Analysis/blob/main/VBA%20Module%202%20Deliverables/Message%20Box%20Run%20Time%20For%202017%20Refactored.png" width=20% height=20% />
 
 ## Summary
 
