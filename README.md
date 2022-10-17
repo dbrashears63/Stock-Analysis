@@ -78,6 +78,11 @@ After refactoring the elapsed time difference for 2017 was 0.640625 seconds. The
 The first image is of the 2017 elapsed time before refactoring. The second images is of 2017 elapsed time after refactoring.
 <img src="https://github.com/dbrashears63/Stock-Analysis/blob/main/VBA%20Module%202%20Deliverables/Message%20Box%20Run%20Time%20For%202017.png" width=25% height=25% /> <img src="https://github.com/dbrashears63/Stock-Analysis/blob/main/VBA%20Module%202%20Deliverables/Message%20Box%20Run%20Time%20For%202017%20Refactored.png" width=25% height=25% />
 
+
+The first image is of the 2018 elapsed time before refactoring. The second images is of 2018 elapsed time after refactoring.
+<img src="https://github.com/dbrashears63/Stock-Analysis/blob/main/VBA%20Module%202%20Deliverables/Message%20Box%20Run%20Time%20For%202018.png" width=25% height=25% /> <img src="https://github.com/dbrashears63/Stock-Analysis/blob/main/VBA%20Module%202%20Deliverables/Message%20Box%20Run%20Time%20For%202018%20Refactored.png" width=25% height=25% />
+
+
 ## Summary
 
 ### Summary of All Stocks
