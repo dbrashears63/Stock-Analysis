@@ -75,9 +75,13 @@ For the refactored code we were given specific guidelines to improve the efficie
 After refactoring the elapsed time difference for 2017 was 0.640625 seconds. The elapsed time difference for 2018 was 0.0117187 seconds. In this scenario there was not much of a difference, however, in a larger program the time refactoring could make it run faster and more efficiently
 
 
-png![Message Box Run Time For 2017](https://user-images.githubusercontent.com/113568268/196168344-106e15d3-78cc-4946-93f3-fee6f008786a.png)
+https://github.com/dbrashears63/Stock-Analysis/blob/main/VBA%20Module%202%20Deliverables/Message%20Box%20Run%20Time%20For%202017.png
+<img src="https://github.com/dbrashears63/Stock-Analysis/blob/main/VBA%20Module%202%20Deliverables/Message%20Box%20Run%20Time%20For%202017.png" width=50% height=50%>
+https://github.com/dbrashears63/Stock-Analysis/blob/main/VBA%20Module%202%20Deliverables/Message%20Box%20Run%20Time%20For%202017%20Refactored.png
 
-2018 Original png/Refactored png
+https://github.com/dbrashears63/Stock-Analysis/blob/main/VBA%20Module%202%20Deliverables/Message%20Box%20Run%20Time%20For%202018.png
+
+https://github.com/dbrashears63/Stock-Analysis/blob/main/VBA%20Module%202%20Deliverables/Message%20Box%20Run%20Time%20For%202018%20Refactored.png
 
 
 ## Summary
